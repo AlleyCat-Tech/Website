@@ -1,15 +1,49 @@
+/*Website Styles */
+
+* {
+  font-size: 100%;
+}
+
 body {
   background-color: MidnightBlue;
-color: DeepPink;
-font-family: Sansita Swashed;
+  color: DeepPink;
+  font-family: Sansita Swashed;
+  font-size: 20px;
 }
 
 h1 {
   color: DeepPink;
+  font-size: 38px;
+  text-align: left;
+}
+
+header h1 {
+  text-align: center;
+}
+
+h2 {
+  color: DeepPink;
+  font-size: 26px;
+}
+
+h3 {
+  color: DeepPink;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  font-style: italic;
 }
 
 p {
   color: Snow;
+  line-height: 2;
+}
+
+a {
+  color: red;
+  text-decoration: underline;
 }
 
 li {
