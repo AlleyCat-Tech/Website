@@ -39,6 +39,7 @@ h1, h2, h3 {
 p {
   color: Snow;
   line-height: 2;
+  text-align: justify;
 }
 
 a {
