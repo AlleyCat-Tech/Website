@@ -13,12 +13,7 @@ body {
   color: DeepPink;
   font-family: Sansita Swashed;
   font-size: 25px;
-}
-
-header,
-section,
-footer {
-  padding: 30px;
+  margin: 50px;
 }
 
 h1 {
